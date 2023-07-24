@@ -1,0 +1,29 @@
+#title1 {
+    color: burlywood;
+    text-align: center;
+}
+
+#main-content {
+    text-align: center;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif
+}
+#subtitle {
+    text-align: center;
+    font-style: italic;
+}
+
+#banhmi {
+    width: 30%;
+    padding-left: 35%;
+}
+#baguette {
+    width: 30%;
+    padding-left: 35%;
+}
+
+#generator {
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    color: burlywood;
+}
